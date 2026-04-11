@@ -32,9 +32,4 @@ This is a real-time chat application built using the MERN stack with WebSockets 
 ```bash
 git clone <your-github-link>
 cd chat-app
-### 2.Backend
-npm install
-node server.js
-###3.Frotnend
-npm install
-npm start
+
