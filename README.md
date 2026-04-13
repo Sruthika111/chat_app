@@ -1,6 +1,6 @@
-*Real-Time Chat Application*
+##Real-Time Chat Application
 
- *Overview*
+ ##Overview
 This is a real-time chat application built using the MERN stack with WebSockets (Socket.io). It allows users to communicate instantly with features like chat rooms, private messaging, and media sharing.
 
 
