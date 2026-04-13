@@ -32,7 +32,7 @@ File Upload: Multer
 
 ### Clone the Repository
 ```bash
-git clone <your-github-link>
+git clone <https://github.com/Sruthika111/chat_app>
 cd chat-app
 ````
 
